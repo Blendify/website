@@ -1,9 +1,10 @@
+
 ***************
 Code Devlopment
 ***************
 
 Here is a list of projects that I have contributed to and information about them.
-Please also check out my personal projects `here <https://github.com/Blendify?tab=repositories&q=&type=source>`__
+Please also check out my personal projects `here <https://github.com/Blendify?tab=repositories&q=&type=source>`__.
 
 `Blender <https://www.blender.org/>`__
    - `Development Potal <https://developer.blender.org/>`__
