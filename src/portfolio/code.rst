@@ -7,7 +7,7 @@ Please also check out my personal projects `here <https://github.com/Blendify?ta
 
 `Blender <https://www.blender.org/>`__
    - `Development Potal <https://developer.blender.org/>`__
-   - `My contributions <https://developer.blender.org/people/commits/114846/>`__
+   - `My contributions <https://developer.blender.org/diffusion/commit/query/cFKucRztl_t1/>`__
    - `Personal Wiki page <https://wiki.blender.org/index.php/User:Blendify>`__
 `Sphinx <http://www.sphinx-doc.org/en/stable/>`__
    - `Develoment Portal <https://github.com/sphinx-doc/sphinx>`__
