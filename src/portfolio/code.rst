@@ -13,6 +13,9 @@ Please also check out my personal projects `here <https://github.com/Blendify?ta
 `Sphinx <http://www.sphinx-doc.org/en/stable/>`__
    - `Develoment Portal <https://github.com/sphinx-doc/sphinx>`__
    - `My contributions <https://github.com/sphinx-doc/sphinx/commits?author=blendify>`__
+`Sphinx RTD Theme <https://readthedocs.org/>`__
+   - `Develoment Portal <https://github.com/rtfd/sphinx_rtd_theme>`__
+   - `My contributions <https://github.com/rtfd/sphinx_rtd_theme/commits?author=blendify>`__
 `LuminanceHDR <http://qtpfsgui.sourceforge.net/>`__
    - `Development Portal <https://github.com/LuminanceHDR/LuminanceHDR>`__
    - `My contributions <https://github.com/LuminanceHDR/LuminanceHDR/commits?author=Blendify>`__
