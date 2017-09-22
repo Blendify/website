@@ -35,8 +35,12 @@ sys.path.insert(0, os.path.abspath(os.path.join('..', 'exts')))
 extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
-    'youtube'
+    'youtube',
+    'googleanalytics'
 ]
+
+googleanalytics_enabled = True
+googleanalytics_id = 'UA-106860872-1'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
