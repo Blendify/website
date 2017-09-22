@@ -3,7 +3,7 @@
 Portfolio
 *********
 
-Here is a collection of things that I have created or help create.
+Welome to my portfolio, here is a collection of things that I have created or help create.
 
 .. toctree::
 
