@@ -3,4 +3,4 @@
 Videos
 ******
 
-Here are some videos that I have made.
+.. youtube:: Y2jRO3nWGS0&
