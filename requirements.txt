@@ -1,2 +1,1 @@
-Sphinx==1.6.3
-git+git://github.com/rtfd/sphinx_rtd_theme.git@d7a1bcbcfe5db2b0bd830cc4bbcdbd4c6669bbac
+Sphinx

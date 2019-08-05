@@ -18,7 +18,6 @@
 #
 import os
 import sys
-import sphinx_rtd_theme
 
 sys.path.insert(0, os.path.abspath(os.path.join('..', 'exts')))
 
@@ -36,11 +35,11 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
     'youtube',
-    'googleanalytics'
+    # 'googleanalytics'
 ]
 
-googleanalytics_enabled = True
-googleanalytics_id = 'UA-106860872-1'
+# googleanalytics_enabled = True
+# googleanalytics_id = 'UA-106860872-1'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -92,8 +91,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx_rtd_theme"
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_theme = "basic"
 
 html_copy_source = False
 html_show_sphinx = False
@@ -104,9 +102,7 @@ html_logo = "../resources/theme/logo-ajc.png"
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {
-    "display_version": False,
-}
+html_theme_options = {}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
