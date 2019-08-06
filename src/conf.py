@@ -91,7 +91,8 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "basic"
+html_theme = "theme"
+html_theme_path = ["../"]
 
 html_copy_source = False
 html_show_sphinx = False
